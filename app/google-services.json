@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689064017242",
+    "firebase_url": "https://firelocation-c7b65.firebaseio.com",
+    "project_id": "firelocation-c7b65",
+    "storage_bucket": "firelocation-c7b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689064017242:android:f434cf1bfe8dcd54",
+        "android_client_info": {
+          "package_name": "com.example.jevil.firelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689064017242-9ioprq07gf0difmdk41hqn44v1aqv6ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jevil.firelocation",
+            "certificate_hash": "c43e75d195068de7d618af512b62c19783af6cd1"
+          }
+        },
+        {
+          "client_id": "689064017242-9cfm0svvdu8ksagmd6rf22ndroosb4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwE1tNHXHXfGrdBMCHPrO_d7f6mCVNVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689064017242-9cfm0svvdu8ksagmd6rf22ndroosb4ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
